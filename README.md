@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Priyanshu Jain</h1>
 <h3 align="center">A software developer from India</h3>
-<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&tbnid=kfpqCuXmfeFi9M&vet=10CAQQMyhpahcKEwi46KntopeEAxUAAAAAHQAAAAAQAw..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation&docid=pfaPE2VX0KmeGM&w=1600&h=700&q=animated%20programmer%20gif&hl=en&client=safari&ved=0CAQQMyhpahcKEwi46KntopeEAxUAAAAAHQAAAAAQAw![Uploading image.png…]()
-" align = "right" alt = "coding" width = "400">
+<img src = "./images.png" align = "right" alt = "coding" width = "400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshujain13&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshujain13" /> </p>
 
